@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/valdecirvjunior/rhapp.git
+git status
+git add .
+git commit -a -m "first"
+git push origin master
